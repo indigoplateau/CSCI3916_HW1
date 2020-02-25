@@ -1,3 +1,2 @@
 #CSCI3916_HW1
-
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/a8990e17f95414b88876)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/a8990e17f95414b88876#?env%5Bhw1%5D=W3sia2V5IjoiJGVjaG9fYm9keSIsInZhbHVlIjoiaGVsbG8gd29ybGQiLCJlbmFibGVkIjp0cnVlfV0=)
